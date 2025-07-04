@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**cheongdung/cheongdung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=cheongdung&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/cheongdung"
@@ -10,6 +7,11 @@
   height="300"
 />
 </a>
+
+<!--
+**cheongdung/cheongdung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
